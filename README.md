@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,wordpress,git,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,wordpress,git,docker,vscode,jquery,postgresql,sqlite,ci/cd,zend.symfony,ubuntu,linux" />
 </p>
 
 ### Core Expertise
